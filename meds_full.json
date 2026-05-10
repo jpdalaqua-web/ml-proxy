@@ -1729,8 +1729,8 @@
   {
     "name": "Glicose Hipertônica (SG 50%)",
     "drug_class": "Carboidrato — Fonte de Energia",
-    "adult_dose": "Hipoglicemia grave: 40-60mL IV em bolus\nHipercalemia (com insulina): 50mL IV",
-    "pediatric_dose": "SG 25%: 2-4mL/kg IV (máx 50mL)\nNeonatos: SG 10%: 2mL/kg IV",
+    "adult_dose": "Hipoglicemia grave: 50mL IV em bolus (= 25g de glicose)\n  Eleva glicemia ~35-40mg/dL em adulto de 70kg (menos em pacientes maiores)\n  Repetir conforme resposta; seguir com SG10% em infusão contínua\nHipercalemia (com insulina): 50mL IV",
+    "pediatric_dose": "Hipoglicemia pediátrica:\n  SG50% diluído para SG25%: 2-4mL/kg IV (máx 50mL) — equivale a 0,5-1g/kg\n  Neonatos: SG10%: 2-4mL/kg IV (nunca SG50% concentrado em neonatos)\n  (Ver também Glicose 50% SG50% — entrada consolidada)",
     "indications": "Hipoglicemia grave, hipercalemia (associada à insulina)",
     "contraindications": "Hiperglicemia grave não tratada",
     "cautions": "Irritante venoso — usar em veia calibrosa. Em alcoolistas/desnutridos: tiamina 100mg IV ANTES da glicose",

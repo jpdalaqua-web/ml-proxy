@@ -69,6 +69,18 @@
       }
     },
     {
+      "index": 157,
+      "name": "Glicose Hipertônica (SG 50%)",
+      "adult_dose": {
+        "before": "Hipoglicemia grave: 40-60mL IV em bolus\nHipercalemia (com insulina): 50mL IV",
+        "after": "Hipoglicemia grave: 50mL IV em bolus (= 25g de glicose)\n  Eleva glicemia ~35-40mg/dL em adulto de 70kg (menos em pacientes maiores)\n  Repetir conforme resposta; seguir com SG10% em infusão contínua\nHipercalemia (com insulina): 50mL IV"
+      },
+      "pediatric_dose": {
+        "before": "SG 25%: 2-4mL/kg IV (máx 50mL)\nNeonatos: SG 10%: 2mL/kg IV",
+        "after": "Hipoglicemia pediátrica:\n  SG50% diluído para SG25%: 2-4mL/kg IV (máx 50mL) — equivale a 0,5-1g/kg\n  Neonatos: SG10%: 2-4mL/kg IV (nunca SG50% concentrado em neonatos)\n  (Ver também Glicose 50% SG50% — entrada consolidada)"
+      }
+    },
+    {
       "index": 260,
       "name": "Ondansetrona",
       "adult_dose": {
@@ -167,6 +179,34 @@
       }
     },
     {
+      "index": 125,
+      "title": "Edema Agudo de Pulmão (EAP)",
+      "conduct": {
+        "before": "1. Posição sentada com pernas pendentes\n2. O2 em alto fluxo — VNI (CPAP/BiPAP) é primeira linha\n3. Monitorização contínua\n4. Acesso venoso\n5. Furosemida IV imediata\n6. Nitratos se PA > 90 mmHg\n7. Morfina com cautela (uso controverso)\n8. Tratar fator precipitante (FA, IAM, HAS)\n9. Intubação orotraqueal se falha da VNI ou apneia\n10. Inotrópico se baixo débito associado",
+        "after": "1. Posição sentada com pernas pendentes\n2. O2 em alto fluxo — VNI (CPAP/BiPAP) é primeira linha\n3. Monitorização contínua\n4. Acesso venoso\n5. Furosemida IV imediata\n6. Nitratos se PA > 90 mmHg\n7. Morfina: NÃO recomendada de rotina — evidências observacionais (ADHERE Registry) associam a maior mortalidade, maior necessidade de VM e piores desfechos no EAP. Usar apenas seletivamente em dispneia intensa refratária + ansiedade, sem hipotensão\n8. Tratar fator precipitante (FA, IAM, HAS)\n9. Intubação orotraqueal se falha da VNI ou apneia\n10. Inotrópico se baixo débito associado"
+      },
+      "doses": {
+        "before": "Furosemida: 40-80mg IV (dobrar dose se em uso crônico)\nNitroglicerina: 10-20 mcg/min IV, titular até 200 mcg/min\nNitroprussiato: 0,3-5 mcg/kg/min (se refratário e PA elevada)\nMorfina: 2-4mg IV (usar com cautela — pode causar hipotensão)\nDobutamina: 2,5-20 mcg/kg/min (se baixo débito)\nCPAP: 5-10 cmH2O; BiPAP: IPAP 10-15 / EPAP 5-8 cmH2O",
+        "after": "Furosemida: 40-80mg IV (dobrar dose se em uso crônico)\nNitroglicerina: 10-20 mcg/min IV, titular até 200 mcg/min\nNitroprussiato: 0,3-5 mcg/kg/min (se refratário e PA elevada)\nMorfina: NÃO recomendada de rotina no EAP (ESC Heart Failure 2021 — Classe IIb, Nível C)\n  Associada a piores desfechos em grandes registros (ADHERE)\n  Se usada: 2-4mg IV lento apenas em dispneia refratária grave + ansiedade, sem hipotensão\nDobutamina: 2,5-20 mcg/kg/min (se baixo débito)\nCPAP: 5-10 cmH2O; BiPAP: IPAP 10-15 / EPAP 5-8 cmH2O"
+      }
+    },
+    {
+      "index": 126,
+      "title": "Edema Agudo de Pulmão (EAP) — Tratamento",
+      "conduct": {
+        "before": "1. Posicionar: sentado com pernas para baixo (reduz pré-carga)\n2. O2: VNI IMEDIATA (CPAP ou BiPAP) — reduz mortalidade e IOT\n3. Acesso venoso + monitorização: ECG, SpO2, PA\n4. ECG: excluir SCA como causa\n5. BNP/NT-proBNP (confirmar IC)\n6. Furosemida IV\n7. Vasodilatador IV (se PA ≥ 110 mmHg)\n8. Morfina: uso seletivo e com cautela (pode deprimir respiração)\n9. Identificar e tratar causa precipitante (SCA, FA, HAS, valvopatia)\n10. IOT: falha da VNI ou contraindicação",
+        "after": "1. Posicionar: sentado com pernas para baixo (reduz pré-carga)\n2. O2: VNI IMEDIATA (CPAP ou BiPAP) — reduz mortalidade e IOT\n3. Acesso venoso + monitorização: ECG, SpO2, PA\n4. ECG: excluir SCA como causa\n5. BNP/NT-proBNP (confirmar IC)\n6. Furosemida IV\n7. Vasodilatador IV (se PA ≥ 110 mmHg)\n8. Morfina: NÃO recomendada de rotina no EAP — associada a piores desfechos (ADHERE Registry). Usar seletivamente apenas em dispneia intensa refratária + ansiedade, sem hipotensão\n9. Identificar e tratar causa precipitante (SCA, FA, HAS, valvopatia)\n10. IOT: falha da VNI ou contraindicação"
+      },
+      "doses": {
+        "before": "VNI (1ª LINHA — INICIAR IMEDIATAMENTE):\nCPAP: 5-10 cmH2O + FiO2 ajustada\nOu BiPAP: IPAP 10-14 / EPAP 5-6 cmH2O\nBenefício: reduz trabalho respiratório + melhora oxigenação + reduz pré e pós-carga\nReduz mortalidade e necessidade de IOT em ensaios clínicos\n\nFUROSEMIDA IV:\nSem uso prévio: 40-80mg IV bolus\nEm uso de furosemida VO: dose IV = dose oral habitual\nOu bolus 40mg + infusão 10-40mg/h\nAlvo: diurese de 1-2L nas primeiras 2h\n\nVASODILATADOR (PA ≥ 110 mmHg):\nNitroglicerina IV: 10-200 mcg/min (preferida — reduz pré e pós-carga)\nOu Nitroprussiato: 0,3-5 mcg/kg/min (HAS grave refratária)\nNão usar se PA < 90 mmHg\n\nMORFINA (uso seletivo — não rotineiro):\n2-4mg IV lento (ansiedade intensa + dor)\nCautela: depressão respiratória + náusea\nAlguns estudos associam a piores desfechos — usar com critério\n\nIOT (indicações):\nFalha da VNI (SpO2 < 90% após 30 min)\nRebaixamento de consciência\nApneia ou bradipneia\nContraindicação à VNI\n\nCHOQUE CARDIOGÊNICO (PA < 90 mmHg):\nDobutamina: 2-20 mcg/kg/min IV (inotrópico)\nNoradrenalina: 0,1-0,5 mcg/kg/min (se hipotensão grave)\nBIAOP ou Impella: suporte mecânico circulatório\n\nSCA COMO CAUSA:\nReperfusão urgente (ICP ou trombólise)\nAAS + anticoagulação\n\nFA COM EAP (controle urgente de FC):\nAmiodarona: 150mg IV em 10 min → infusão\nOu Digoxina: 0,5mg IV (FA + IC)\nCardioversão elétrica se instabilidade",
+        "after": "VNI (1ª LINHA — INICIAR IMEDIATAMENTE):\nCPAP: 5-10 cmH2O + FiO2 ajustada\nOu BiPAP: IPAP 10-14 / EPAP 5-6 cmH2O\nBenefício: reduz trabalho respiratório + melhora oxigenação + reduz pré e pós-carga\nReduz mortalidade e necessidade de IOT em ensaios clínicos\n\nFUROSEMIDA IV:\nSem uso prévio: 40-80mg IV bolus\nEm uso de furosemida VO: dose IV = dose oral habitual\nOu bolus 40mg + infusão 10-40mg/h\nAlvo: diurese de 1-2L nas primeiras 2h\n\nVASODILATADOR (PA ≥ 110 mmHg):\nNitroglicerina IV: 10-200 mcg/min (preferida — reduz pré e pós-carga)\nOu Nitroprussiato: 0,3-5 mcg/kg/min (HAS grave refratária)\nNão usar se PA < 90 mmHg\n\nMORFINA (NÃO RECOMENDADA DE ROTINA — ESC Heart Failure 2021):\nGrandes estudos observacionais (ADHERE Registry) associam morfina a:\n  - Maior mortalidade hospitalar\n  - Maior necessidade de ventilação mecânica\n  - Mais admissões em UTI\nSe usada: 2-4mg IV lento — APENAS em dispneia intensa refratária + ansiedade severa, PA > 100 mmHg, sem hipotensão, sem rebaixamento\n\nIOT (indicações):\nFalha da VNI (SpO2 < 90% após 30 min)\nRebaixamento de consciência\nApneia ou bradipneia\nContraindicação à VNI\n\nCHOQUE CARDIOGÊNICO (PA < 90 mmHg):\nDobutamina: 2-20 mcg/kg/min IV (inotrópico)\nNoradrenalina: 0,1-0,5 mcg/kg/min (se hipotensão grave)\nBIAOP ou Impella: suporte mecânico circulatório\n\nSCA COMO CAUSA:\nReperfusão urgente (ICP ou trombólise)\nAAS + anticoagulação\n\nFA COM EAP (controle urgente de FC):\nAmiodarona: 150mg IV em 10 min → infusão\nOu Digoxina: 0,5mg IV (FA + IC)\nCardioversão elétrica se instabilidade"
+      },
+      "red_flags": {
+        "before": "VNI atrasada: perda de tempo — CPAP/BiPAP é a 1ª intervenção após posição e O2\nFurosemida sem VNI: diurese sozinha é insuficiente em EAP grave\nPA < 90 mmHg + EAP: não usar vasodilatador — choque cardiogênico → dobutamina\nMorfina rotineira: associada a piores desfechos em alguns estudos — usar seletivamente\nSCA oculta: ECG obrigatório — IAM pode se apresentar como EAP",
+        "after": "VNI atrasada: perda de tempo — CPAP/BiPAP é a 1ª intervenção após posição e O2\nFurosemida sem VNI: diurese sozinha é insuficiente em EAP grave\nPA < 90 mmHg + EAP: não usar vasodilatador — choque cardiogênico → dobutamina\nMorfina rotineira: CONTRAINDICADA como rotina — ESC 2021 e ADHERE Registry associam a maior mortalidade e VM. Usar apenas como último recurso em dispneia refratária grave\nSCA oculta: ECG obrigatório — IAM pode se apresentar como EAP"
+      }
+    },
+    {
       "index": 180,
       "title": "Hemorragia Digestiva Alta (HDA)",
       "doses": {
@@ -180,6 +220,22 @@
       "doses": {
         "before": "HIPOGLICEMIA LEVE-MODERADA (consciente):\nRegra 15-15:\n15g de glicose de ação rápida:\n- 3-4 comprimidos de glicose (dextrosol)\n- 150mL de suco de laranja\n- 150mL de refrigerante comum (não diet)\n- 1 colher de sopa de mel\nRe-checar em 15 min — repetir se < 70mg/dL\n\nHIPOGLICEMIA GRAVE (inconsciente/convulsão):\nSG50%: 20-50mL IV bolus (eleva ~50mg/dL)\nManutenção: SG10% IV até comer\nGluconato: glucagon 1mg IM/SC (se sem acesso IV)\nDasiglucagon: 0,6mg SC (alternativa)\n\nSULFONILUREIA (hipoglicemia prolongada — horas a dias):\nSG10% em infusão contínua por 12-24h\nOctrEotida: 50-100mcg SC 8/8h (inibe secreção de insulina endógena residual)\nObservação hospitalar 24-48h obrigatória\n\nINSULINOMA (hipoglicemia de jejum recorrente):\nDiazóxido: 3-8mg/kg/dia VO (inibe secreção de insulina)\nOctrEotida: 50-150mcg SC 8/8h\nCirurgia: enucleação do tumor\n\nINSUFICIÊNCIA ADRENAL (hipoglicemia + hipotensão):\nHidrocortisona: 100mg IV bolus (ver protocolo de crise adrenal)",
         "after": "HIPOGLICEMIA LEVE-MODERADA (consciente):\nRegra 15-15:\n15g de glicose de ação rápida:\n- 3-4 comprimidos de glicose (dextrosol)\n- 150mL de suco de laranja\n- 150mL de refrigerante comum (não diet)\n- 1 colher de sopa de mel\nRe-checar em 15 min — repetir se < 70mg/dL\n\nHIPOGLICEMIA GRAVE (inconsciente/convulsão):\nSG50%: 40-50mL IV bolus (= 20-25g de glicose) (eleva aproximadamente 35-40mg/dL em adulto de 70kg (menos em pacientes maiores))\nManutenção: SG10% IV até comer\nGluconato: glucagon 1mg IM/SC (se sem acesso IV)\nDasiglucagon: 0,6mg SC (alternativa)\n\nSULFONILUREIA (hipoglicemia prolongada — horas a dias):\nSG10% em infusão contínua por 12-24h\nOctrEotida: 50-100mcg SC 8/8h (inibe secreção de insulina endógena residual)\nObservação hospitalar 24-48h obrigatória\n\nINSULINOMA (hipoglicemia de jejum recorrente):\nDiazóxido: 3-8mg/kg/dia VO (inibe secreção de insulina)\nOctrEotida: 50-150mcg SC 8/8h\nCirurgia: enucleação do tumor\n\nINSUFICIÊNCIA ADRENAL (hipoglicemia + hipotensão):\nHidrocortisona: 100mg IV bolus (ver protocolo de crise adrenal)"
+      }
+    },
+    {
+      "index": 204,
+      "title": "Hiponatremia",
+      "conduct": {
+        "before": "1. Anamnese: início, sintomas, medicamentos, doenças crônicas\n2. Osmolaridade sérica e urinária, Na+ urinário\n3. Avaliação do estado volêmico (mucosas, turgor, PA, PVC)\n4. Identificar e tratar causa\n5. Sintomática grave (convulsão, rebaixamento): NaCl 3% IV\n6. Assintomática: correção lenta e causa\n7. Restrição hídrica se SIADH (Na+ urinário > 40)\n8. Vaptanos se SIADH refratário\n9. Monitorizar Na+ a cada 4-6h na fase aguda\n10. Limite de correção: máx 10-12 mEq/L em 24h",
+        "after": "1. Anamnese: início, sintomas, medicamentos, doenças crônicas\n2. Osmolaridade sérica e urinária, Na+ urinário\n3. Avaliação do estado volêmico (mucosas, turgor, PA, PVC)\n4. Identificar e tratar causa\n5. Sintomática grave (convulsão, rebaixamento): NaCl 3% IV\n6. Assintomática: correção lenta e causa\n7. Restrição hídrica se SIADH (Na+ urinário > 40)\n8. Vaptanos se SIADH refratário\n9. Monitorizar Na+ a cada 4-6h na fase aguda\n10. Limite de correção: máx 10 mEq/L em 24h (8 mEq/L em alto risco: crônica > 48h, alcoolismo, desnutrição, hipocalemia, hepatopatia grave)"
+      },
+      "doses": {
+        "before": "NaCl 3% (hiponatremia sintomática grave): 150mL IV em 20 min, repetir até 3x\nMeta: elevar Na+ em 5 mEq/L nas primeiras 1-2h para controlar sintomas\nCorreção máxima: 10-12 mEq/L em 24h (8 mEq/L se risco de desmielinização)\nSF 0,9% se hipovolêmica: 500mL-1L IV em 30-60 min\nFludrocortisona: 0,05-0,2mg/dia se insuficiência adrenal",
+        "after": "NaCl 3% (hiponatremia sintomática grave): 150mL IV em 20 min, repetir até 3x\nMeta: elevar Na+ em 5 mEq/L nas primeiras 1-2h para controlar sintomas\nCorreção máxima: 10 mEq/L em 24h — alvo conservador seguro para todos\n  Alto risco de SDO (hiponatremia crônica > 48h, alcoolismo, desnutrição,\n  hipocalemia concomitante, hepatopatia avançada): máx 8 mEq/L em 24h\n  ATENÇÃO: limite de 12 mEq/L é permissivo demais e eleva risco de SDO irreversível\nSF 0,9% se hipovolêmica: 500mL-1L IV em 30-60 min\nFludrocortisona: 0,05-0,2mg/dia se insuficiência adrenal"
+      },
+      "red_flags": {
+        "before": "Correção rápida (> 12 mEq/L em 24h) causa síndrome de desmielinização osmótica (mielinólise pontina) — irreversível\nConvulsão por hiponatremia = NaCl 3% imediato — não aguardar exames\nAlcoolistas e desnutridos têm maior risco de mielinólise — corrigir mais lentamente\nHiponatremia crônica: paciente adaptado — correção lenta obrigatória\nNa+ < 120 em paciente assintomático: não tratar agressivamente",
+        "after": "Correção rápida (> 10 mEq/L em 24h) aumenta risco de SDO (síndrome de desmielinização osmótica) — irreversível.\nAlvo seguro: máx 10 mEq/L em 24h para todos; máx 8 mEq/L em alto risco\nConvulsão por hiponatremia = NaCl 3% imediato — não aguardar exames\nAlcoolistas e desnutridos têm maior risco de mielinólise — corrigir mais lentamente\nHiponatremia crônica: paciente adaptado — correção lenta obrigatória\nNa+ < 120 em paciente assintomático: não tratar agressivamente"
       }
     },
     {
@@ -240,6 +296,18 @@
       "doses": {
         "before": "SEPSE PRECOCE (< 72h):\nAmpicilina: 50mg/kg IV 8/8h (0-7 dias) ou 6/6h (> 7 dias)\n+ Gentamicina: 4-5mg/kg IV 24/24h (< 7 dias) ou 4mg/kg 24/24h\n\nSUSPEITA DE MENINGITE:\nAmpicilina: 100mg/kg IV 8/8h + Cefotaxima 50mg/kg IV 8/8h\n(Ceftriaxona: evitar em RN — desloca bilirrubina)\n\nSEPSE TARDIA (> 72h — nosocomial):\nOxacilina 50mg/kg IV 4/4h + Gentamicina 4mg/kg IV 24/24h\nSE MRSA suspeito: Vancomicina 15mg/kg IV 6/6h\n\nVOLUME (choque):\nSF 0,9%: 10mL/kg IV em 30 min (máx 30mL/kg total — avaliar)\n\nGLICOSE:\nSG10%: 2mL/kg IV bolus se hipoglicemia",
         "after": "SEPSE PRECOCE (< 72h):\nAmpicilina: 50mg/kg IV 8/8h (0-7 dias) ou 6/6h (> 7 dias)\n+ Gentamicina: 4-5mg/kg IV 24/24h (< 7 dias) ou 4mg/kg 24/24h\n\nSUSPEITA DE MENINGITE:\nAmpicilina: 100mg/kg IV 6/6h + Cefotaxima 50mg/kg IV 6/6h\n  (intervalo 6/6h para meningite — garante concentração adequada no LCR;\n   8/8h apenas para sepse sem meningite em RN < 7 dias)\n(Ceftriaxona: evitar em RN — desloca bilirrubina)\n\nSEPSE TARDIA (> 72h — nosocomial):\nOxacilina 50mg/kg IV 4/4h + Gentamicina 4mg/kg IV 24/24h\nSE MRSA suspeito: Vancomicina 15mg/kg IV 6/6h\n\nVOLUME (choque):\nSF 0,9%: 10mL/kg IV em 30 min (máx 30mL/kg total — avaliar)\n\nGLICOSE:\nSG10%: 2mL/kg IV bolus se hipoglicemia"
+      }
+    },
+    {
+      "index": 327,
+      "title": "Síndrome Neuroléptica Maligna (SNM)",
+      "conduct": {
+        "before": "1. Reconhecer: hipertermia + rigidez em chumbo + instabilidade autonômica + CPK elevada\n2. Suspender TODOS os antipsicóticos e agentes bloqueadores de dopamina\n3. Suporte intensivo: hidratação, resfriamento, monitorização\n4. Dantrroleno (relaxante muscular direto)\n5. Bromocriptina ou Amantadina (agonistas dopaminérgicos)\n6. Benzodiazepínico (agitação, rigidez)\n7. Intubação se hipertermia grave (T >41°C) ou rebaixamento\n8. Tratar complicações: IRA, CIVD, TEV, IR\n9. Monitorizar CPK, creatinina, coagulação\n10. Reiniciar antipsicótico (se necessário): aguardar ≥2 semanas + usar agente diferente",
+        "after": "1. Reconhecer: hipertermia + rigidez em chumbo + instabilidade autonômica + CPK elevada\n2. Suspender TODOS os antipsicóticos e agentes bloqueadores de dopamina\n3. Suporte intensivo: hidratação, resfriamento, monitorização\n4. Bromocriptina ou Amantadina (agonistas dopaminérgicos — pilar farmacológico; reposição do tônus dopaminérgico bloqueado)\n5. Dantroleno (adjuvante para rigidez e hipertermia refratárias — evidência baseada em relatos de caso; NÃO substitui bromocriptina)\n6. Benzodiazepínico (agitação, rigidez)\n7. Intubação se hipertermia grave (T >41°C) ou rebaixamento\n8. Tratar complicações: IRA, CIVD, TEV, IR\n9. Monitorizar CPK, creatinina, coagulação\n10. Reiniciar antipsicótico (se necessário): aguardar ≥2 semanas + usar agente diferente"
+      },
+      "doses": {
+        "before": "DANTROLENO (1ª linha — relaxante muscular direto):\n2,5mg/kg IV ataque, repetir a cada 5-10 min até efeito (máx 10mg/kg/dia)\nManutenção: 1mg/kg IV 6/6h por 24-48h\nTransição para VO: 50-200mg VO 12/12h\nCuidado: hepatotóxico com uso prolongado\n\nBROMOCRIPTINA (agonista D2):\n2,5mg VO/SNG 8/8h (iniciar baixo, titular até 10mg 8/8h)\nAlternativa: Amantadina 100-200mg VO 12/12h\n\nBENZODIAZEPÍNICO:\nDiazepam 10mg IV ou Lorazepam 2-4mg IV\n\nREFRIGERAÇÃO (T >38,5°C):\nCompressas, manta refrigerada, SF gelado IV\n\nRABDOMIÓLISE (CPK muito elevada):\nSF 0,9% 1-2L/h (alvo diurese >1-2 mL/kg/h)\nMonitorar K+ (hipercalemia por rabdomiólise)\n\nTROMBOPROFILAXIA:\nEnoxaparina 40mg SC/dia + meia elástica",
+        "after": "BROMOCRIPTINA (pilar farmacológico — agonista D2):\n2,5mg VO/SNG 8/8h — titular até 10mg 8/8h conforme resposta\nAlternativa: Amantadina 100-200mg VO 12/12h\nMecanismo: repõe tônus dopaminérgico suprimido pelo antipsicótico — aborda a fisiopatologia central\n\nDANTROLENO (adjuvante — evidência baseada em relatos de caso, NÃO 1ª linha isolada):\nIndicado em: rigidez grave refratária, hipertermia > 39°C refratária ao resfriamento\n2,5mg/kg IV ataque, repetir a cada 5-10 min até efeito (máx 10mg/kg/dia)\nManutenção: 1mg/kg IV 6/6h por 24-48h\nCuidado: hepatotóxico com uso prolongado\nATENÇÃO: diferente da hipertermia maligna (onde dantrolene é antídoto específico obrigatório), na SNM o mecanismo é dopaminérgico — dantrolene é adjuvante, não antídoto\n\nBENZODIAZEPÍNICO:\nDiazepam 10mg IV ou Lorazepam 2-4mg IV\n\nREFRIGERAÇÃO (T >38,5°C):\nCompressas, manta refrigerada, SF gelado IV\n\nRABDOMIÓLISE (CPK muito elevada):\nSF 0,9% 1-2L/h (alvo diurese >1-2 mL/kg/h)\nMonitorar K+ (hipercalemia por rabdomiólise)\n\nTROMBOPROFILAXIA:\nEnoxaparina 40mg SC/dia + meia elástica"
       }
     },
     {
